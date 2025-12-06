@@ -1,25 +1,28 @@
 # Jappe OS
 ## About
-JappeOS is a modern, Linux-based operating system. Designed to be lightweight, user-friendly, and accessible, JappeOS aims to run smoothly on a wide range of devices — from low-end setups to high-end systems.
+JappeOS is a fresh, Linux-based OS that’s all about being lightweight, easy to use, and fast. Whether you’ve got a budget laptop or a powerhouse PC, JappeOS is designed to run smoothly on pretty much any device.
 
-What sets JappeOS apart is its core technology. The desktop environment and system applications are developed using Dart and Flutter, providing a sleek, modern interface while maintaining excellent performance. With its foundation built on Wayland for display management, JappeOS delivers smooth visuals and responsiveness.
+The cool thing about JappeOS is what’s under the hood. We use Dart and Flutter to build the desktop environment and apps, which means it looks awesome and runs fast. And since we use Wayland for display management, you get super smooth visuals and great performance.
 
-Whether you're looking for an OS for everyday use or experimenting with new platforms, JappeOS is built to grow with you.
+If you’re into trying out new systems or just need something simple for day-to-day stuff, JappeOS has got you covered.
+
+> [!WARNING]
+> JappeOS is still in very early development. It is not ready for daily use yet. You can get updates and devlogs on [our Discord](https://discord.gg/dRtU4HR).
 
 ## Key Features
-- **Lightweight:** Minimal resource usage ensures JappeOS runs seamlessly on low-spec and high-spec devices alike.
-- **Modern Technology:** Powered by Dart and Flutter, delivering a polished, dynamic, and user-friendly experience.
-- **Wayland Display Server:** Ensures a modern graphical performance with cutting-edge technology.
-- **Cross-Device Compatibility:** Runs on as many devices as possible, making JappeOS accessible to everyone.
-- **User-Friendly:** Built with accessibility and simplicity in mind, catering to both tech enthusiasts and casual users alike.
+- **Lightweight:** Super efficient so it works great on both low-end and high-end devices.
+- **Modern Technology:** Built with Dart and Flutter, making it sleek, responsive, and easy to navigate.
+- **Wayland Display Server:** A more modern, smooth display experience.
+- **Cross-Device Compatibility:** We’ve made it so JappeOS works on as many devices as possible.
+- **User-Friendly:** Whether you’re a techie or a casual user, it’s simple and accessible for everyone.
 
 ## Team
-JappeOS is founded by Jappe02, who began the project back in 2020. Since then, the effort has grown into a small but passionate team at Jappe Studios, working hard to bring this vision to life.
+JappeOS was started by Jappe02 back in 2020, and it’s grown into a small, passionate crew over at Jappe Studios. We’re all about making this project something cool, and we’re always pushing forward.
 
 ## Socials & Resources
-* [Join our Discord Community](https://discord.gg/dRtU4HR)
-* **Website:** Coming soon — stay tuned!
-* YouTube Channel: Maybe coming soon (but let’s not make promises 😉).
+* **[Join our Discord Community](https://discord.gg/dRtU4HR)**: Come hang out and chat with us!
+* **Website:** Coming soon - stay tuned!
+* **YouTube Channel:** Maybe coming soon (but let’s not make promises 😉).
 
 ## Contribute
-We’re always on the lookout for contributors and collaborators! If you’re interested in coding, testing, or just sharing ideas, join our Discord or keep an eye on the repository for updates.
+Want to help out? We’re always looking for people to contribute! Whether you’re into coding, testing, or just sharing ideas, hit us up on Discord or check out the repos or Discord for more info.
