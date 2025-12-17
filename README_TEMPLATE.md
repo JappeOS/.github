@@ -8,10 +8,8 @@
 </p>
 
 <p align="center">
-  {{Add badges in order: Technical -> Project status -> Community}}
-  <a href="https://discord.gg/dRtU4HR">
-    <img src="https://img.shields.io/discord/716673375946407972?style=plastic">
-  </a>
+  {{Add other relevant badges}}
+  <a href="https://discord.gg/dRtU4HR"><img src="https://img.shields.io/discord/716673375946407972?style=plastic&color=3250a8"></a>
 </p>
 
 ---
@@ -25,6 +23,7 @@
 -
 
 ## Role in the OS
+
 -
 
 ## Building
